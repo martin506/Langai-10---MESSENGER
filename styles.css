@@ -1,0 +1,32 @@
+div{
+    padding: 0;
+}
+
+.logo{
+    width: 65px;
+    margin: 10px;
+    padding: 0;
+}
+
+.nameLabel{
+    padding: 20px;
+    text-align: right;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.nameInput{
+    margin-left: auto;
+    margin-right: auto;
+
+    height: 30px;
+    width: 300px;;
+    margin-top: 15px;
+}
+
+.pavadinimas{
+    position: absolute;
+    font-size: 124px;
+    font-family: 'Roboto Slab', serif;  
+    top: 375px;
+    left: 675px;
+}
