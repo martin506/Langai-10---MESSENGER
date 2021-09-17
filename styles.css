@@ -10,21 +10,7 @@ div{
     width: 65px;
     margin: 10px;
     padding: 0;
-}
-
-.nameLabel{
-    padding: 20px;
-    text-align: right;
-    font-family: 'Montserrat', sans-serif;
-}
-
-.nameInput{
-    margin-left: auto;
-    margin-right: auto;
-
-    height: 30px;
-    width: 300px;
-    margin-top: 15px;
+    border-radius: 50%;
 }
 
 .pavadinimas{
@@ -33,4 +19,31 @@ div{
     font-family: 'Roboto Slab', serif;  
     top: 375px;
     left: 675px;
+}
+
+.navigation-bar {
+    background-color: #3E2C41;
+    position: absolute;
+    width: 85%;
+}
+
+.signIn {
+    background-color: rgb(206, 206, 206);
+    height: 100%;
+    width: 450px;
+    position: absolute;
+    right: 0;
+    padding-top: 450px;
+}
+
+.signinName{
+    text-align: center;
+}
+
+.nameForm{
+    text-align: center;
+}
+
+.passwordForm{
+    text-align: center;
 }
