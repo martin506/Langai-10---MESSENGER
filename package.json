@@ -18,6 +18,7 @@
   "homepage": "https://github.com/martin506/Langai-10---MESSENGER#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "mysql2": "^2.3.0",
     "nodemon": "^2.0.12"
   }
 }
