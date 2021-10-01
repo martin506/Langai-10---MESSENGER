@@ -1,49 +1,30 @@
-body {
-    overflow-x: hidden;
-}
-
-div{
-    padding: 0;
-}
-
-.logo{
-    width: 65px;
-    margin: 10px;
-    padding: 0;
-    border-radius: 50%;
-}
-
-.pavadinimas{
-    position: absolute;
-    font-size: 124px;
-    font-family: 'Roboto Slab', serif;  
-    top: 375px;
-    left: 675px;
-}
-
-.navigation-bar {
-    background-color: #3E2C41;
-    position: absolute;
-    width: 85%;
-}
-
-.signIn {
-    background-color: rgb(206, 206, 206);
-    height: 100%;
-    width: 450px;
-    position: absolute;
-    right: 0;
-    padding-top: 450px;
-}
-
-.signinName{
+.userName {
+    margin: 20px auto 20px auto;    
     text-align: center;
+    padding-top: 30px;
+    color: #C996CC;
 }
 
-.nameForm{
-    text-align: center;
+body{
+    background-color: #916BBF;
 }
 
-.passwordForm{
+.signIn{
+    width: 500px;
+    height:300px;
+    margin: 300px auto 0 auto;
+    background-color: #3D2C8D;
+    border-radius: 50px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: #1C0C5B;
+}
+
+.userPassword{
     text-align: center;
+    color: #C996CC;
+}
+
+.penis{
+    width: 250px;
 }
